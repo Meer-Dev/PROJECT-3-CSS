@@ -47,7 +47,7 @@ body,head{
     text-align: center;
     font-size: 1.5vw;
     font-family: 'Quattrocento Sans', sans-serif;
-    padding: 15px;
+    padding: 1vw;
     color: #024f49;
     text-shadow: cornsilk;
 }
@@ -86,16 +86,16 @@ body,head{
     background-image: -ms-linear-gradient(top, #106c6c, #03524d);
     background-image: -o-linear-gradient(top, #106c6c, #03524d);
     background-image: -webkit-gradient(to bottom, #106c6c, #03524d);
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    border-radius: 20px;
+    -webkit-border-radius: 1vw;
+    -moz-border-radius: 1vw;
+    border-radius: 1vw;
     text-decoration: none;
  }
 .g{
     text-align: center;
     font-size: 2.8vw;
     font-family: 'Quattrocento Sans', sans-serif;
-    padding: 15px;
+    padding: 1vw;
     color: #03524d;
     text-shadow: cornsilk;
        
@@ -109,7 +109,7 @@ body,head{
     text-align: center;
     font-size: 1.5vw;
     font-family: 'Quattrocento Sans', sans-serif;
-    padding: 15px;
+    padding: 1vw;
     color: #03524d;
     text-shadow: cornsilk;
 }
@@ -122,7 +122,7 @@ body,head{
 
 }
 .h{
-    padding-top: 45px;
+    padding-top: 3vw;
     color: #03524d;
     text-shadow: cornsilk;
     margin-top: 10%;
@@ -141,17 +141,17 @@ body,head{
     font-size: 1.5vw;
     font-family: 'Quattrocento Sans', sans-serif;
     text-align: left;
-    padding: 15px;
+    padding: 1vw;
     color: #03524d;
     text-shadow: cornsilk;
-    margin-bottom: 12%;
+    margin-bottom: 5vw;
     
 }
 .hh{
     font-size: 2.5vw;
     font-family: 'Quattrocento Sans', sans-serif;
     text-align: center;
-    padding-top: 15px;
+    padding-top: 1vw;
     color: #03524d;
     text-shadow: cornsilk;
     margin-bottom: 0;
@@ -163,7 +163,7 @@ body,head{
     width: 50%;
     font-family: 'Quattrocento Sans', sans-serif;
     text-align: center;
-    padding-bottom: 50px;
+    padding-bottom: 5vw;
     color: #03524d;
     text-shadow: cornsilk;
     margin: auto;
@@ -171,8 +171,7 @@ body,head{
 .img1{
     /* float: left; */
     height: 15vw;
-    padding-top: 10%;
-    margin-right: 30px;
+    padding-top: 5vw;
   margin-left: 39%;
  
     
@@ -180,14 +179,14 @@ body,head{
 .design{
     height: 12vw;
     float: left;
-    margin-right: 30px;
-    margin-bottom: 10px;
+    margin-right: 3vw;
+    margin-bottom: 0;
 }
 .frontend{
     height: 12vw;
     float: left;
-    margin-right: 30px;
-    margin-bottom: 10px;
+    margin-right: 3vw;
+    margin-bottom: 5vw;
 }
 .profile{
    
@@ -218,7 +217,7 @@ img{
 #q{
  width: auto;
  margin: auto;
-    background-size: 10px;
+    background-size: 2vw;
  position: relative;
 }
 .profile{
@@ -227,7 +226,7 @@ img{
 }
 .middle-container{
     overflow: auto;
-     margin-bottom: 50px;
+     margin-bottom: 5vw;
     
 }
 .bottom-container{
@@ -238,8 +237,8 @@ img{
 }
 .footer-link{
     color: #24a098;
-    margin-right: 40px;
-    margin-left: 40px;
+    margin-right: 5vw;
+    margin-left: 5vw;
     font-size: 1.5vw;
     font-family: 'Quattrocento Sans', sans-serif;
 }
