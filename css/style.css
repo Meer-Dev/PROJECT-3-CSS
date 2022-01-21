@@ -2,7 +2,7 @@ body{
     text-align: center;
     margin: 0%;
     
-    background-color: #FEF9EF;
+    background-color: #ddf4ee;
     text-align: center;
     
     
@@ -40,13 +40,13 @@ body,head{
     color: #ddf1ef;
     text-shadow: 0 0 3px #024f49, 0 0 5px #024f49;
     font-size: 3vw;
-    font-family: 'Quattrocento Sans', sans-serif;
+    font-family: 'Rubik', sans-serif;
     position: absolute;
 }
 .gg{
     text-align: center;
     font-size: 1.5vw;
-    font-family: 'Quattrocento Sans', sans-serif;
+    font-family: 'Rubik', sans-serif;
     padding: 1vw;
     color: #024f49;
     text-shadow: cornsilk;
@@ -66,7 +66,7 @@ body,head{
     height: 2vw;
     line-height: 2vw;
     color: #FFFFFF;
-    font-family: 'Quattrocento Sans', sans-serif;
+    font-family: 'Rubik', sans-serif;
     width: 12vw;
     font-size: 2vw;
     font-weight: 700;
@@ -94,7 +94,7 @@ body,head{
 .g{
     text-align: center;
     font-size: 2.8vw;
-    font-family: 'Quattrocento Sans', sans-serif;
+    font-family: 'Rubik', sans-serif;
     padding: 1vw;
     color: #03524d;
     text-shadow: cornsilk;
@@ -106,14 +106,14 @@ body,head{
 .fotter-link{
     text-align: center;
     font-size: 1.5vw;
-    font-family: 'Quattrocento Sans', sans-serif;
+    font-family: 'Rubik', sans-serif;
     padding: 1vw;
     color: #03524d;
     text-shadow: cornsilk;
 }
 .myskills{
     font-size: 2.8vw;
-    font-family: 'Quattrocento Sans', sans-serif;
+    font-family: 'Rubik', sans-serif;
     /* margin-bottom: 10%; */
     color: #03524d;
     text-shadow: cornsilk;
@@ -128,7 +128,7 @@ body,head{
 }
 .f{
     font-size: 1.8vw;
-    font-family: 'Quattrocento Sans', sans-serif;
+    font-family: 'Rubik', sans-serif;
     text-align: left;
     /* margin-top: 10%; */
     color: #03524d;
@@ -137,7 +137,7 @@ body,head{
 }
 .p{
     font-size: 1.5vw;
-    font-family: 'Quattrocento Sans', sans-serif;
+    font-family: 'Rubik', sans-serif;
     text-align: left;
     padding: 1vw;
     color: #03524d;
@@ -147,7 +147,7 @@ body,head{
 }
 .hh{
     font-size: 2.5vw;
-    font-family: 'Quattrocento Sans', sans-serif;
+    font-family: 'Rubik', sans-serif;
     text-align: center;
     padding-top: 1vw;
     color: #03524d;
@@ -159,7 +159,7 @@ body,head{
 .pp{
     font-size: 1.5vw;
     width: 50%;
-    font-family: 'Quattrocento Sans', sans-serif;
+    font-family: 'Rubik', sans-serif;
     text-align: center;
     padding-bottom: 5vw;
     color: #03524d;
@@ -220,7 +220,7 @@ img{
 }
 .profile{
     font-size: 2vw;
-    font-family: 'Quattrocento Sans', sans-serif;
+    font-family: 'Rubik', sans-serif;
 }
 .middle-container{
     overflow: auto;
@@ -238,5 +238,5 @@ img{
     margin-right: 5vw;
     margin-left: 5vw;
     font-size: 1.5vw;
-    font-family: 'Quattrocento Sans', sans-serif;
+    font-family: 'Rubik', sans-serif;
 }
